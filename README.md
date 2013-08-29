@@ -56,4 +56,4 @@ Copyright (c) 2011 - 2012, Stephen Lee <stephen.lee@lightworxproject.com>
 
 License
 -------
-Licensed under the MIT License.
+MultipleLoad is open source software released under the terms of the MIT License.
