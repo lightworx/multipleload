@@ -50,7 +50,7 @@ Configure
 
 Copyright
 ---------
-Copyright (c) 2011 - 2012, Stephen Lee <stephen.lee@lightworxproject.com>
+Copyright (c) 2011 - 2012, Stephen Lee <stephen.lee@lightworx.io>
 
 
 
