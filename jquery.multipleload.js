@@ -1,7 +1,7 @@
 /**
- * Copyright (c) 2011 - 2012, Stephen Lee <stephen.lee@lightworxproject.com>
+ * Copyright (c) 2011 - 2012, Stephen Lee <stephen.lee@lightworx.io>
  * All rights reserved.
- * @link http://www.lightworxproject.com
+ * @link https://lightworx.io
  * 
  * Licensed under the BSD and MIT Licenses:
  * The plugin multipleload get one or more DOM node(s) from specified url,
